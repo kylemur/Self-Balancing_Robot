@@ -30,3 +30,39 @@
 *.exe
 *.out
 *.app
+
+# C language compiled files
+*.o
+*.out
+*.a
+*.so
+*.exe
+*.dll
+*.lib
+
+# C++ compiled files
+*.obj
+*.dSYM/
+*.d
+
+# C & C++ IDE files
+.vscode/
+.idea/
+*.log
+CMakeLists.txt.user
+Makefile.user
+
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+*.venv
+
+# Miscellaneous system files
+.DS_Store
+Thumbs.db
